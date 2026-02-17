@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doc Samples</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Welcome to Doc Samples</h1>
+        <p>This is a test page for GitHub Pages.</p>
+        <p>Current time: <span id="time"></span></p>
+    </div>
+    
+    <script>
+        document.getElementById('time').textContent = new Date().toLocaleString();
+    </script>
+</body>
+</html>
