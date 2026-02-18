@@ -6,9 +6,7 @@ Build Seamless Single Sign-On (SSO) and Cross-Application Access for Enterprise 
 
 ## What is the SDK?
 
-The
-
-**Identity Cloud Service (ICS) JavaScript SDK** enables seamless single sign-on (SSO) and unified identity management across your application ecosystem. Reduce login friction, improve user experience, and maintain enterprise-grade security. Key capabilities include: **Federated User Management:**Create, retrieve, and manage users across multiple applications **Seamless SSO:**Authenticate once, access multiple applications without re-login **Multi-Method Authentication:**Support password, federated identity (SAML, OIDC), social login **MFA:**Add multi-factor authentication with TOTP, SMS, and email for sensitive operations **Cross-Application Sessions:**Manage unified sessions and token refresh across application boundaries **RBAC & Attribute-Based Access:**Enforce fine-grained access control based on user attributes and roles
+The **Identity Cloud Service (ICS) JavaScript SDK** enables seamless single sign-on (SSO) and unified identity management across your application ecosystem. Reduce login friction, improve user experience, and maintain enterprise-grade security. Key capabilities include: **Federated User Management:**Create, retrieve, and manage users across multiple applications **Seamless SSO:**Authenticate once, access multiple applications without re-login **Multi-Method Authentication:**Support password, federated identity (SAML, OIDC), social login **MFA:**Add multi-factor authentication with TOTP, SMS, and email for sensitive operations **Cross-Application Sessions:**Manage unified sessions and token refresh across application boundaries **RBAC & Attribute-Based Access:**Enforce fine-grained access control based on user attributes and roles
 
 **Supported Environments**Modern browsers (Chrome, Firefox, Safari, Edge) and Node.js 14+.
 
