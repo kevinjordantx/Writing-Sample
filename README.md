@@ -1,3 +1,3 @@
 # Writing-Sample
 
-Creating merge conflict
+Merge Conlict here
