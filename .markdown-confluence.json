@@ -1,5 +1,6 @@
 {
   "confluenceBaseUrl": "https://kevinjordantx79.atlassian.net/wiki",
-  "confluenceParentId": "655361",
-  "folderToPublish": "docs"
+  "confluenceParentId": "950273",
+  "folderToPublish": "docs",
+  "atlassianUserName": "kevinjordantx@gmail.com"
 }
